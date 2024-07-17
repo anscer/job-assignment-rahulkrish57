@@ -1,0 +1,7 @@
+{
+    "watch": ["index.ts", "routes/", "model/", "database.ts"],
+    "ext": "ts,json",
+    "ignore": ["node_modules"],
+    "exec": "npx ts-node index.ts"
+  }
+  
